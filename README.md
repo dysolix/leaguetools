@@ -1,6 +1,6 @@
 # leaguetools
 ## Download
-You can find the latest version in the [GitHub releases](https://github.com/dysolix/leaguetools/releases) on the right.
+You can find the [latest](https://github.com/dysolix/leaguetools/releases/latest) version and all previous ones in the [GitHub releases](https://github.com/dysolix/leaguetools/releases) on the right.
 ## Features
 - Summoner Info
   - Display information about your teammates and enemies
