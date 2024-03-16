@@ -18,7 +18,7 @@ You can find the [latest](https://github.com/dysolix/leaguetools/releases/latest
 - Other
   - Default skin warning that notifies you if you have the default skin selected if you own skins for the champion
   - Button to quickly acknowledge new loot
-  - Button to quickly clear your challenge badges
+  - Button to clear your challenge badges
   - Custom theme support
   - Option to automatically check for updates and install them with one click
 ## Is this allowed?
