@@ -19,7 +19,7 @@ You can find the [latest](https://github.com/dysolix/leaguetools/releases/latest
   - Custom theme support
   - Option to automatically check for updates and install them with one click
 ## Pictures
-<img src="https://cdn.dysolix.dev/leaguetools_summoner_info.png" />
+TODO
 
 ## Is this allowed?
 Yes. LeagueTools is registered and approved on the Riot Games developer portal.
