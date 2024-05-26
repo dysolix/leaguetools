@@ -5,16 +5,13 @@ You can find the [latest](https://github.com/dysolix/leaguetools/releases/latest
 - Summoner Info
   - Display information about your teammates and enemies
   - Information includes Solo and Flex rank, level, information about the most recent matches (Champion played, Win or Lose) and premades
-- Stats
-  - See your stats based on all matches LeagueTools has in it's database
-  - Ability to filter based on team, champion, position, queue, map and enemy champion
-- Runes
-  - Import & Export rune pages
-  - Create rules to automatically import specific rune pages based on the selected champion and map
 - Loadouts
   - Loadouts can include profile icons, emotes, ward skins, challenge badges, challenge titles, little legends, TFT arenas and TFT booms
   - Create and load loadouts
   - Create rules to automatically load a loadout based on the selected champion
+- Discord RPC
+  - Improved Discord RPC for League of Legends
+  - Displays the summoner icon, rank, selected champion, skin and chroma
 - Other
   - Default skin warning that notifies you if you have the default skin selected if you own skins for the champion
   - Button to quickly acknowledge new loot
