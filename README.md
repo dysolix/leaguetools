@@ -1,5 +1,9 @@
-# LeagueTools
-![LeagueTools Logo](https://cdn.dysolix.dev/leaguetools/logo.png)
+<div align="center">
+  <img src="https://cdn.dysolix.dev/leaguetools/logo.png" alt="LeagueTools Logo" width="256" />
+  <h1>LeagueTools</h1>
+  <h3>A League of Legends companion app</h3>
+</div>
+
 ## Download
 You can find the [latest](https://github.com/dysolix/leaguetools/releases/latest) version and all previous ones in the [GitHub releases](https://github.com/dysolix/leaguetools/releases) on the right. If i created a changelog, then you will also find it there.
 ## Features
