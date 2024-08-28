@@ -25,7 +25,6 @@ You can find the [latest](https://github.com/dysolix/leaguetools/releases/latest
   - Option to automatically check for updates and install them with one click
 ## Pictures
 ![Discord RPC](https://cdn.dysolix.dev/leaguetools/discord_rpc.png)
-![Summoner Info Page](https://cdn.dysolix.dev/leaguetools/summoner_info_page.png)
 ## Is this allowed?
 Yes. LeagueTools is registered and approved on the Riot Games developer portal.
 ## Disclaimer
