@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.dysolix.dev/leaguetools/logo.png" alt="LeagueTools Logo" width="256" />
+  <img src="https://cdn.dysolix.dev/leaguetools/logo_256.png" alt="LeagueTools Logo" />
   <h1>LeagueTools</h1>
   <h3>A League of Legends companion app</h3>
 </div>
